@@ -1,6 +1,5 @@
 dist: bionic
 os:
-- linux
 - linux-ppc64le
 language: ruby
 rvm:
